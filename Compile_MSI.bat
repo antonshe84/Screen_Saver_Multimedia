@@ -1,0 +1,1 @@
+start setup.py bdist_msi
